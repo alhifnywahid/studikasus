@@ -1,5 +1,3 @@
-package StudiKasus;
-
 import javax.swing.JOptionPane;
 public class CatatanSederhana {
     public static void main(String[] args) {
